@@ -1,0 +1,6 @@
+```
+{
+  "pair": "Returns-Promo_Spend",
+  "correlation": -0.0827
+}
+```
